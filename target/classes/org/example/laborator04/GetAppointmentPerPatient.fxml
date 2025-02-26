@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="527.0" prefWidth="848.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.ui.controller.GetAppointmentPerPatientController">
+    <children>
+        <TableView fx:id="dataTableView" layoutX="8.0" layoutY="9.0" prefHeight="510.0" prefWidth="829.0" />
+    </children>
+</AnchorPane>

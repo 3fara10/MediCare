@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="476.0" prefWidth="597.0" spacing="20.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.ui.controller.MainMenuController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <Label style="-fx-font-size: 18px; -fx-font-weight: bold;" text="Main Menu" />
+
+    <Button fx:id="patientMenuButton" onAction="#handlePatientMenu" text="Patient Menu" />
+    <Button fx:id="appointmentMenuButton" onAction="#handleAppointmentMenu" text="Appointment Menu" />
+    <Button fx:id="exitButton" onAction="#handleExit" text="Exit" />
+</VBox>

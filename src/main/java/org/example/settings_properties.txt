@@ -1,0 +1,13 @@
+start.type=javafx
+repo.type=sql
+repo.databaseName=Cluster0
+file.patient=mongodb+srv://3fara10:3fara10@cluster0.2ji34.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+file.appointment=mongodb+srv://3fara10:3fara10@cluster0.2ji34.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+Pentru fisiere:
+C:\\Users\\anton\\IdeaProjects\\laborator04\\src\\main\\java\\org\\example\\patients.xml
+C:\\Users\\anton\\IdeaProjects\\laborator04\\src\\main\\java\\org\\example\\appointments.xml
+
+Pentru NoSql:
+mongodb+srv://3fara10:3fara10@cluster0.2ji34.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://3fara10:3fara10@cluster0.2ji34.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
