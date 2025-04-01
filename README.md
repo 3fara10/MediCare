@@ -16,7 +16,7 @@ This project demonstrates **Java programming**, **OOP principles**, **Hibernate 
 ✔️ Register, update, and delete patient records  
 ✔️ Manage doctor appointments  
 ✔️ Store medical history and prescriptions  
-✔️ Use MySQL/PostgreSQL and MongoDB for data persistence  
+✔️ Use Sql Server and MongoDB for data persistence  
 ✔️ Implement authentication for access control 
 
 ---
@@ -24,7 +24,7 @@ This project demonstrates **Java programming**, **OOP principles**, **Hibernate 
 ##  Technologies Used
 - **Programming Language:** Java  
 - **Frameworks:** Hibernate ORM, MongoDB Java Driver  
-- **Databases:** MySQL / PostgreSQL / MongoDB  
+- **Databases:** Sql Server / MongoDB  
 - **Build Tool:** Maven  
 - **JDBC & Transactions:** Database connectivity  
 
