@@ -5,7 +5,6 @@ A Java-based system for managing patients, appointments, and medical records eff
 **MediCare** is a healthcare management system that allows clinics and hospitals to:
 - Register and manage patient records   
 - Schedule, update, and cancel appointments   
-- Maintain medical history and prescriptions   
 - Use a relational and NoSQL database for efficient data storage  
 
 This project demonstrates **Java programming**, **OOP principles**, **Hibernate ORM**, **MongoDB**, and **database management**.
@@ -15,7 +14,6 @@ This project demonstrates **Java programming**, **OOP principles**, **Hibernate 
 ##  Features
 ✔️ Register, update, and delete patient records  
 ✔️ Manage doctor appointments  
-✔️ Store medical history and prescriptions  
 ✔️ Use Sql Server and MongoDB for data persistence  
 ✔️ Implement authentication for access control 
 
