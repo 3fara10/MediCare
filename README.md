@@ -15,7 +15,6 @@ This project demonstrates **Java programming**, **OOP principles**, **Hibernate 
 ✔️ Register, update, and delete patient records  
 ✔️ Manage doctor appointments  
 ✔️ Use Sql Server and MongoDB for data persistence  
-✔️ Implement authentication for access control 
 
 ---
 
@@ -32,12 +31,9 @@ This project demonstrates **Java programming**, **OOP principles**, **Hibernate 
 This project follows **industry-standard design patterns** to improve code maintainability and scalability:
 - **Singleton Pattern** – Ensures only one instance of critical services.
 - **Factory Pattern** – Used for creating objects dynamically.
-- **Builder Pattern** – Simplifies object construction.
 - **Observer Pattern** – Enables event-driven programming for updates.
 - **DAO (Data Access Object)** – Manages database interactions cleanly.
 - **MVC (Model-View-Controller)** – Separates concerns for better maintainability.
-- **Facade Pattern** – Simplifies interactions between subsystems.
-- **Command Pattern** – Implements request handling and undo functionality.
 
 ## What I Learned
 - **Database integration** with Hibernate and MongoDB  
